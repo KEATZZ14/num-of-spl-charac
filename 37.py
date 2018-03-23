@@ -3,4 +3,4 @@ y = 60
 temp = x
 x = y
 y = temp
-print("x=", x, " y=", y)
+print("x=", x," y=",y)
